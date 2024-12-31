@@ -17,8 +17,8 @@
 }
 
 .blue-circle {
-  width: 1200px;
-  height: 450px;
+  width: 1400px;
+  height: 500px;
   background-color: #6ccff6;
   /* Blue color */
   top: 75%;
@@ -28,12 +28,12 @@
 }
 
 .pink-circle {
-  width: 1200px;
-  height: 450px;
+  width: 1400px;
+  height: 500px;
   background-color: #ff64d1;
   /* Pink color */
-  top: -36%;
-  right: 15%;
+  top: -37.5%;
+  right: 10%;
   /* Adjust for position */
   transform: translate(50%, 50%);
 }

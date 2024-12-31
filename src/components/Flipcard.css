@@ -9,6 +9,8 @@
   justify-content: center;
   align-items: center;
   margin: auto;
+  margin-left: 590px;
+  margin-top: 55px;
 }
 
 .flip-card-inner {
@@ -148,7 +150,7 @@
   /* Label font size */
   font-weight: normal;
   /* Bold font for the label */
-  margin-left: 79px;
+  margin-left: 68.56px;
   /* Add space to the left of the label */
   font-family: '"Option Sans Regular", sans-serif';
   font-weight: lighter;
