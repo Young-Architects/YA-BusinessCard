@@ -32,8 +32,8 @@
   height: 500px;
   background-color: #ff64d1;
   /* Pink color */
-  top: -37.5%;
-  right: 10%;
+  top: -42%;
+  right: 6%;
   /* Adjust for position */
   transform: translate(50%, 50%);
 }
